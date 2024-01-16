@@ -33,6 +33,6 @@
 
    <h1> Thank You </h1>
    <br>
-   <h1> HAPPY LEARNING. SEE YOU SOON. </h1>
+   <h1> HAPPY LEARNING. SEE YOU AGAIN. </h1>
    
 </form>
